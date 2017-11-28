@@ -11,4 +11,4 @@ position = gets.strip
 
 
 
-display_board(input_to_index(position))
+#display_board(input_to_index(position))
