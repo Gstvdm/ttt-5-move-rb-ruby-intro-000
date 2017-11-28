@@ -9,5 +9,6 @@ puts "Where would you like to go?"
 position = gets.strip
 input_to_index(position)
 
+board = Array.new
 
 display_board(board)
